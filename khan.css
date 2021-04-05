@@ -1,0 +1,294 @@
+body{
+    margin:auto 10%;
+   /* background-color:red;*/
+     }
+
+            
+#wraffer{
+            background-color:white;
+          width:100%; 
+         height:auto; 
+        }
+            
+ #header_wraffer{
+                background-color:white;
+                width:100%;
+                height:200px; 
+            }
+            
+#logo{
+         background-color:red;
+        width:20%;
+        height: 200px;
+        float: left;
+         margin-right:0.3%;  
+                
+}
+
+#logo img{
+    width:100%;
+    height:200px;
+}
+
+#banner{
+       background-color:black;
+         width:79.7%;
+         height: 200px;
+         float:left; 
+                
+        }
+#banner img{
+    width:100%;
+    height:200px;
+    
+}
+
+/*start menu bar*/
+            
+#menu{
+        background:black;
+        /* width:100%;
+         height:70px; */
+        margin-top:3px;
+                
+                
+ }
+
+
+#menu ul{
+  /*  background-color:aliceblue;*/
+    text-align:center;
+  /*  height:50px;*/
+    
+
+}
+#menu ul li{
+     display:inline-block;
+  /*   background-color:dimgrey;*/
+       padding:4px 25px;
+    
+  
+}
+#menu ul li a{
+    font-size:28px;
+    text-transform:uppercase;
+    color:white;
+    text-decoration:none;
+    padding:5px;
+   
+ 
+}
+#menu ul li a:hover{
+    background-color: firebrick;
+   
+    border:none;
+    outline:none;
+
+}
+#menu ul li:hover a{
+    color:blue;
+    background-color:wheat;
+    border-radius:20px;
+    
+  
+}
+
+
+
+
+/*menu bar*/
+.main{
+ /*   background-color:dimgrey;*/
+  /*  height:600px;*/
+   
+    
+}
+
+.mid{
+   /* background-color:dodgerblue;*/
+    width:90%;
+  /*  height:600px;*/
+    margin:auto;
+     overflow:hidden;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+   /* background-image:url(img/bg2.jpg);*/
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+.sari{
+/*  background-color:blue;*/
+ /*   height:550px;*/
+    width:250px;
+    margin-top:20px;
+ 
+}
+.sari img{
+    width:100%;
+    height:350px;
+    padding:3px;
+    margin:3px;
+}
+.sari img:hover{
+    border:4px solid red;
+}
+
+
+
+/*end of one*/
+
+.mila{
+ /*  background-color:green;*/
+  /*  height:550px;*/
+    width:368px;
+    margin-top:20px;
+    margin-left:36px;
+}
+.mila img{
+    height:350px;
+    width:350px;
+    padding:6px;
+    margin:6px;
+}
+.mila img:hover{
+ 
+/*border:3px solid green;*/
+    border-radius:50%;
+    
+    
+    
+}
+
+
+/*end of main*/
+            
+/*stat sar css*/
+
+
+.sar_main{
+    margin-top:30px;
+    width:auto;
+}
+
+.sar_main img{
+     height: 400px;
+    width: 320px;
+    border: 3px solid navy;
+    margin-left: 25px;
+    margin-top:5px;
+}
+
+
+/*end sar css*/
+
+/*stat sari css*/
+.sari_main{
+    margin-top:30px;
+    width:auto;
+}
+
+.sari_main img{
+     height: 400px;
+    width: 320px;
+    border: 3px solid red;
+    margin-left: 25px;
+    margin-top:5px;
+}
+
+
+/*end sari css*/
+
+/* start one peice css*/
+
+
+
+/* end of one peice css*/
+
+
+
+         #footer{
+             
+         
+                background-color:black;
+             color:white;
+                width:100%;
+             /*   height:200px;*/ 
+              
+              text-align:center;
+            /* border-radius:20px;*/
+             display: flex;
+             flex-wrap:wrap;
+            }
+
+.f_img{
+   /* margin-top:20px;*/
+    float:left;
+       margin-left:30px;
+    margin:10px;
+    padding:10px;
+    width:20%;
+  /*  background-color:antiquewhite;*/
+}
+.f_img h1{
+    margin:0px;
+    padding:0px;
+    font-size:25px;
+    text-transform: uppercase;
+}
+
+.f_img img{
+    height:100px;
+    width:50%;
+    border-radius:50%;
+    display:inline-block;
+}
+
+.social{
+    font-size:20px;
+    
+}
+.social a{
+    color:white;
+}
+
+/*footer right*/
+
+.right{
+/*   background-color:indianred;*/
+    /*height:200px;*/
+    width:30%;
+    float:left;
+    margin:10px;
+    padding:10px;
+    
+}
+.right p{
+    color:white;
+    padding:1px;
+    margin:0px;
+    font-size:20px;
+}
+.right h4{
+    color:white;
+    padding:1px;
+    margin:0px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
